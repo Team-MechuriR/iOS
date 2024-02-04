@@ -11,7 +11,7 @@ import SwiftUI
 struct MechuriR_new_iOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AddFriendListView()
         }
     }
 }
