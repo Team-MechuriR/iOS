@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B107652D2B6F9F5E0023B686 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B107652C2B6F9F5E0023B686 /* NotificationView.swift */; };
+		B107652F2B6FA03F0023B686 /* NotificationCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B107652E2B6FA03F0023B686 /* NotificationCellView.swift */; };
+		B10765312B6FA0B60023B686 /* Notice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10765302B6FA0B60023B686 /* Notice.swift */; };
+		B10765332B6FBEC50023B686 /* SentLetterCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10765322B6FBEC50023B686 /* SentLetterCellView.swift */; };
+		B10765352B6FBED80023B686 /* ReceivedLetterCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10765342B6FBED80023B686 /* ReceivedLetterCellView.swift */; };
+		B1999EE82B6F7046005B37BA /* WriteDiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EE72B6F7046005B37BA /* WriteDiaryView.swift */; };
+		B1999EEA2B6F72EE005B37BA /* WriteLetterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EE92B6F72EE005B37BA /* WriteLetterView.swift */; };
+		B1999EEC2B6F7FD7005B37BA /* ReceivedLetterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EEB2B6F7FD7005B37BA /* ReceivedLetterView.swift */; };
+		B1999EEE2B6F803B005B37BA /* SentLetterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EED2B6F803B005B37BA /* SentLetterView.swift */; };
+		B1999EF12B6F8093005B37BA /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EF02B6F8093005B37BA /* LoginView.swift */; };
+		B1999EF32B6F8305005B37BA /* FriendListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EF22B6F8305005B37BA /* FriendListView.swift */; };
+		B1999EF62B6F8400005B37BA /* FriendListCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EF52B6F8400005B37BA /* FriendListCellView.swift */; };
+		B1999EF82B6F8C3F005B37BA /* AddFriendListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EF72B6F8C3F005B37BA /* AddFriendListView.swift */; };
+		B1999EFA2B6F8C56005B37BA /* AddFreindListCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EF92B6F8C56005B37BA /* AddFreindListCellView.swift */; };
+		B1999EFC2B6F9133005B37BA /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EFB2B6F9133005B37BA /* SearchBar.swift */; };
+		B1999EFE2B6F9260005B37BA /* FriendListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EFD2B6F9260005B37BA /* FriendListViewModel.swift */; };
+		B1999F002B6F93BB005B37BA /* Searchable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999EFF2B6F93BB005B37BA /* Searchable.swift */; };
+		B1999F022B6F93F7005B37BA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1999F012B6F93F7005B37BA /* User.swift */; };
 		EF88B2052B50FCBA00A24D6D /* MechuriR_new_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF88B2042B50FCBA00A24D6D /* MechuriR_new_iOSApp.swift */; };
 		EF88B2072B50FCBA00A24D6D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF88B2062B50FCBA00A24D6D /* ContentView.swift */; };
 		EF88B2092B50FCBC00A24D6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF88B2082B50FCBC00A24D6D /* Assets.xcassets */; };
@@ -18,6 +36,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B107652C2B6F9F5E0023B686 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		B107652E2B6FA03F0023B686 /* NotificationCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCellView.swift; sourceTree = "<group>"; };
+		B10765302B6FA0B60023B686 /* Notice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notice.swift; sourceTree = "<group>"; };
+		B10765322B6FBEC50023B686 /* SentLetterCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentLetterCellView.swift; sourceTree = "<group>"; };
+		B10765342B6FBED80023B686 /* ReceivedLetterCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceivedLetterCellView.swift; sourceTree = "<group>"; };
+		B1999EE72B6F7046005B37BA /* WriteDiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteDiaryView.swift; sourceTree = "<group>"; };
+		B1999EE92B6F72EE005B37BA /* WriteLetterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WriteLetterView.swift; sourceTree = "<group>"; };
+		B1999EEB2B6F7FD7005B37BA /* ReceivedLetterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceivedLetterView.swift; sourceTree = "<group>"; };
+		B1999EED2B6F803B005B37BA /* SentLetterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentLetterView.swift; sourceTree = "<group>"; };
+		B1999EF02B6F8093005B37BA /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		B1999EF22B6F8305005B37BA /* FriendListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendListView.swift; sourceTree = "<group>"; };
+		B1999EF52B6F8400005B37BA /* FriendListCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendListCellView.swift; sourceTree = "<group>"; };
+		B1999EF72B6F8C3F005B37BA /* AddFriendListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFriendListView.swift; sourceTree = "<group>"; };
+		B1999EF92B6F8C56005B37BA /* AddFreindListCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFreindListCellView.swift; sourceTree = "<group>"; };
+		B1999EFB2B6F9133005B37BA /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		B1999EFD2B6F9260005B37BA /* FriendListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendListViewModel.swift; sourceTree = "<group>"; };
+		B1999EFF2B6F93BB005B37BA /* Searchable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Searchable.swift; sourceTree = "<group>"; };
+		B1999F012B6F93F7005B37BA /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		EF88B2012B50FCBA00A24D6D /* MechuriR_new_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MechuriR_new_iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF88B2042B50FCBA00A24D6D /* MechuriR_new_iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MechuriR_new_iOSApp.swift; sourceTree = "<group>"; };
 		EF88B2062B50FCBA00A24D6D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -41,6 +77,68 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B1999EE12B6F6BDF005B37BA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B1999F052B6F982F005B37BA /* Component */,
+				B1999EF42B6F83D4005B37BA /* Cell */,
+				B1999EE72B6F7046005B37BA /* WriteDiaryView.swift */,
+				B1999EE92B6F72EE005B37BA /* WriteLetterView.swift */,
+				B1999EEB2B6F7FD7005B37BA /* ReceivedLetterView.swift */,
+				B1999EED2B6F803B005B37BA /* SentLetterView.swift */,
+				B107652C2B6F9F5E0023B686 /* NotificationView.swift */,
+				B1999EF02B6F8093005B37BA /* LoginView.swift */,
+				B1999EF22B6F8305005B37BA /* FriendListView.swift */,
+				B1999EF72B6F8C3F005B37BA /* AddFriendListView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B1999EE22B6F6BE6005B37BA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				B1999EFD2B6F9260005B37BA /* FriendListViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		B1999EE32B6F6BEE005B37BA /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				B1999EFF2B6F93BB005B37BA /* Searchable.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		B1999EE42B6F6BF7005B37BA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B1999F012B6F93F7005B37BA /* User.swift */,
+				B10765302B6FA0B60023B686 /* Notice.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B1999EF42B6F83D4005B37BA /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				B1999EF52B6F8400005B37BA /* FriendListCellView.swift */,
+				B1999EF92B6F8C56005B37BA /* AddFreindListCellView.swift */,
+				B107652E2B6FA03F0023B686 /* NotificationCellView.swift */,
+				B10765322B6FBEC50023B686 /* SentLetterCellView.swift */,
+				B10765342B6FBED80023B686 /* ReceivedLetterCellView.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		B1999F052B6F982F005B37BA /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				B1999EFB2B6F9133005B37BA /* SearchBar.swift */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
 		EF88B1F82B50FCBA00A24D6D = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +158,10 @@
 		EF88B2032B50FCBA00A24D6D /* MechuriR_new_iOS */ = {
 			isa = PBXGroup;
 			children = (
+				B1999EE42B6F6BF7005B37BA /* Model */,
+				B1999EE32B6F6BEE005B37BA /* Service */,
+				B1999EE22B6F6BE6005B37BA /* ViewModel */,
+				B1999EE12B6F6BDF005B37BA /* View */,
 				EF88B21D2B50FDC300A24D6D /* MechuriR-new-iOS-Info.plist */,
 				EF88B2122B50FCEC00A24D6D /* Resource */,
 				EF88B2042B50FCBA00A24D6D /* MechuriR_new_iOSApp.swift */,
@@ -178,9 +280,27 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF88B2072B50FCBA00A24D6D /* ContentView.swift in Sources */,
+				B10765352B6FBED80023B686 /* ReceivedLetterCellView.swift in Sources */,
 				EF88B2152B50FD0B00A24D6D /* extension_font.swift in Sources */,
+				B1999EF62B6F8400005B37BA /* FriendListCellView.swift in Sources */,
+				B10765332B6FBEC50023B686 /* SentLetterCellView.swift in Sources */,
+				B1999EE82B6F7046005B37BA /* WriteDiaryView.swift in Sources */,
+				B1999EFA2B6F8C56005B37BA /* AddFreindListCellView.swift in Sources */,
+				B10765312B6FA0B60023B686 /* Notice.swift in Sources */,
+				B1999F002B6F93BB005B37BA /* Searchable.swift in Sources */,
+				B1999EF12B6F8093005B37BA /* LoginView.swift in Sources */,
+				B107652F2B6FA03F0023B686 /* NotificationCellView.swift in Sources */,
+				B1999F022B6F93F7005B37BA /* User.swift in Sources */,
+				B1999EF32B6F8305005B37BA /* FriendListView.swift in Sources */,
+				B1999EFC2B6F9133005B37BA /* SearchBar.swift in Sources */,
+				B1999EF82B6F8C3F005B37BA /* AddFriendListView.swift in Sources */,
+				B1999EEC2B6F7FD7005B37BA /* ReceivedLetterView.swift in Sources */,
+				B1999EEE2B6F803B005B37BA /* SentLetterView.swift in Sources */,
 				EF88B2052B50FCBA00A24D6D /* MechuriR_new_iOSApp.swift in Sources */,
 				EF88B2172B50FD1A00A24D6D /* extension_color.swift in Sources */,
+				B1999EEA2B6F72EE005B37BA /* WriteLetterView.swift in Sources */,
+				B1999EFE2B6F9260005B37BA /* FriendListViewModel.swift in Sources */,
+				B107652D2B6F9F5E0023B686 /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
