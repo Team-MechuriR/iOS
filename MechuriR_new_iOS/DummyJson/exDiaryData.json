@@ -1,0 +1,57 @@
+[
+    {
+      "createdDate": "2023-11-25T20:36:33.921602",
+      "modifiedDate": "2023-11-25T20:36:33.921602",
+      "exDiaryId": 1,
+      "startDate": "2023-08-11T07:50:03",
+      "finishDate": "2023-08-11T07:50:03",
+      "exDiaryName": "부산여행",
+      "createMemberName": "박수현",
+      "img": "sampleDiaryImage",
+      "backgroundColor": "#2525"
+    },
+    {
+      "createdDate": "2023-11-25T20:36:33.921602",
+      "modifiedDate": "2023-11-25T20:36:33.921602",
+      "exDiaryId": 2,
+      "startDate": "2023-08-11T07:50:03",
+      "finishDate": "2023-08-11T07:50:03",
+      "exDiaryName": "전주여행",
+      "createMemberName": "진태영",
+      "img": "sampleDiaryImage",
+      "backgroundColor": "#2525"
+    },
+    {
+      "createdDate": "2023-11-25T20:36:33.921602",
+      "modifiedDate": "2023-11-25T20:36:33.921602",
+      "exDiaryId": 3,
+      "startDate": "2023-08-11T07:50:03",
+      "finishDate": "2023-08-11T07:50:03",
+      "exDiaryName": "일본여행",
+      "createMemberName": "신희선",
+      "img": "sampleDiaryImage",
+      "backgroundColor": "#2525"
+    },
+    {
+      "createdDate": "2023-11-25T20:36:33.921602",
+      "modifiedDate": "2023-11-25T20:36:33.921602",
+      "exDiaryId": 4,
+      "startDate": "2023-08-11T07:50:03",
+      "finishDate": "2023-08-11T07:50:03",
+      "exDiaryName": "워크숍",
+      "createMemberName": "이현호",
+      "img": "sampleDiaryImage",
+      "backgroundColor": "#2525"
+    },
+    {
+      "createdDate": "2023-11-25T20:36:33.921602",
+      "modifiedDate": "2023-11-25T20:36:33.921602",
+      "exDiaryId": 5,
+      "startDate": "2023-08-11T07:50:03",
+      "finishDate": "2023-08-11T07:50:03",
+      "exDiaryName": "부산여행",
+      "createMemberName": "홍세희",
+      "img": "sampleDiaryImage",
+      "backgroundColor": "#2525"
+    }
+]
